@@ -2,7 +2,7 @@
 
 1. Phase 1: Event Driven Applications
 
-    [ ] Using built-in Node.js events to simulate realtime package delivery changes.
+    [X] Using built-in Node.js events to simulate realtime package delivery changes.
 
 2. Phase 2: Socket.io
 

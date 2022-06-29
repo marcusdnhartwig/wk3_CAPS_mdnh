@@ -50,6 +50,8 @@ We have 2 major clients for this service: *Vendors* and *Drivers.* Each need to 
 
 ![img](/assets/Screen%20Shot%202022-06-27%20at%209.00.07%20PM.png)
 
+![img](/assets/Screen%20Shot%202022-06-28%20at%202.10.30%20PM.png)
+
 
 
 *Credit & Collab*
@@ -57,3 +59,5 @@ We have 2 major clients for this service: *Vendors* and *Drivers.* Each need to 
 //> Brady Davenport
 //> Abdinasir Yussuf
 //> Guy Farley
+//> Ryan Gallaway
+//> Justin Hamerly
