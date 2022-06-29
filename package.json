@@ -1,0 +1,28 @@
+{
+  "name": "wk3_caps_mdnh",
+  "version": "1.0.0",
+  "description": "## Technical Reqs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusdnhartwig/wk3_CAPS_mdnh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusdnhartwig/wk3_CAPS_mdnh/issues"
+  },
+  "homepage": "https://github.com/marcusdnhartwig/wk3_CAPS_mdnh#readme",
+  "dependencies": {
+    "chance": "^1.1.8",
+    "express": "^4.18.1",
+    "jest": "^28.1.1",
+    "nodemon": "^2.0.18",
+    "singleton": "^1.0.0",
+    "supergoose": "^0.2.6",
+    "supertest": "^6.2.3"
+  }
+}
